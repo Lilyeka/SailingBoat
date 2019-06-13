@@ -13,6 +13,7 @@
 		61084A3622B2364800D66E53 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 61084A3522B2364800D66E53 /* Assets.xcassets */; };
 		61084A3922B2364800D66E53 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61084A3722B2364800D66E53 /* LaunchScreen.storyboard */; };
 		61084A4122B236A800D66E53 /* boat.png in Resources */ = {isa = PBXBuildFile; fileRef = 61084A4022B236A700D66E53 /* boat.png */; };
+		61084A4322B2394200D66E53 /* boatPath.png in Resources */ = {isa = PBXBuildFile; fileRef = 61084A4222B2394200D66E53 /* boatPath.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		61084A3822B2364800D66E53 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		61084A3A22B2364800D66E53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		61084A4022B236A700D66E53 /* boat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boat.png; sourceTree = "<group>"; };
+		61084A4222B2394200D66E53 /* boatPath.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = boatPath.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				61084A2E22B2364300D66E53 /* AppDelegate.swift */,
 				61084A3022B2364300D66E53 /* ViewController.swift */,
+				61084A4222B2394200D66E53 /* boatPath.png */,
 				61084A4022B236A700D66E53 /* boat.png */,
 				61084A3222B2364300D66E53 /* Main.storyboard */,
 				61084A3522B2364800D66E53 /* Assets.xcassets */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				61084A3922B2364800D66E53 /* LaunchScreen.storyboard in Resources */,
+				61084A4322B2394200D66E53 /* boatPath.png in Resources */,
 				61084A4122B236A800D66E53 /* boat.png in Resources */,
 				61084A3622B2364800D66E53 /* Assets.xcassets in Resources */,
 				61084A3422B2364300D66E53 /* Main.storyboard in Resources */,
